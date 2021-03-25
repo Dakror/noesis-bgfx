@@ -1,0 +1,1 @@
+This is a (now obsolete but once working) implementation of Noesis GUI with BGFX. This is a raw-copy paste from a private project, so some details will not be applicable. This is no plug-and-play code.
